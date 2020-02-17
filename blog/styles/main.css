@@ -1,0 +1,22 @@
+<style>
+
+title {
+  @media (max-height) 800px;
+  font-size: 40px;
+  color: rgb(153,0,0);
+}
+
+.black {
+  color: #000;
+  background-color: red
+}
+
+h1 {
+  @media (max-height) 800px;
+  font-size: 40px;
+  font-color: red;
+  color: rgb(153,0,0);
+
+}
+
+</style>

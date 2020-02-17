@@ -1,0 +1,48 @@
+<style>
+
+body {
+  background-color: blue;
+  text-align: center;
+}
+
+@media (max-height: 800px) {
+  body {
+    background-color: blueviolet;
+    font-size: 10px;
+  }
+}
+
+h3 {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(25, 0, 66);
+  text-align: center;
+  
+}
+
+p {
+  font-family: monospace;
+  font-size: 15px;
+ text-align: center;
+ padding-top: 2em;
+ 
+}
+
+.r {
+  text-align: center;
+  color: red;
+}
+img {
+  width: auto;
+  height: auto;
+  border-radius: 1em;
+}
+
+#strange {
+font-size: 10px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+</style>
